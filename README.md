@@ -77,5 +77,19 @@ Harflerden kelimeler türetin! Sakin bir Türkçe kelime bulmacası: **süre yok
 
 </td>
 </tr>
+<tr>
+<td width="110" valign="top">
+  <a href="https://fermanakgun.github.io/proje-tanitim/soz-heybesi/"><img src="https://fermanakgun.github.io/proje-tanitim/assets/soz-heybesi.png" width="96" alt="Söz Heybesi simgesi"></a>
+</td>
+<td valign="top">
+
+**[Söz Heybesi](https://fermanakgun.github.io/proje-tanitim/soz-heybesi/)** · *Söz Heybesi* — iPhone ve iPad
+
+Atasözlerini harf taşlarıyla tamamlayın! Sakin bir kelime bulmacası: **süre yok, ceza yok, reklam yok.**
+
+[App Store'dan indir](https://apps.apple.com/tr/app/s%C3%B6z-heybesi/id6817938653) · [Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/soz-heybesi/) · [English](https://fermanakgun.github.io/proje-tanitim/soz-heybesi/en.html)
+
+</td>
+</tr>
 </table>
 <!-- /Projelerim -->
