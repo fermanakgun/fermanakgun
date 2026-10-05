@@ -16,7 +16,7 @@
 Meyveleri kaydır, eşleştir, patlat! Kendi hızınızda oynanan sakin bir meyve bulmacası: **can yok, bekleme yok, reklam yok.**
 Sonsuz ve tekrar etmeyen seviyeler, mevsimden mevsime büyüyen bir bahçe, büyük ve okunaklı taşlar.
 
-[App Store'dan indir](https://apps.apple.com/app/id6817875847) · [Basın kiti ve tanıtım klibi](https://fermanakgun.github.io/bereket-bahcesi/) · [English](https://fermanakgun.github.io/bereket-bahcesi/en.html)
+[App Store'dan indir](https://apps.apple.com/tr/app/bereket-bah%C3%A7esi/id6817875847) · [Basın kiti ve tanıtım klibi](https://fermanakgun.github.io/bereket-bahcesi/) · [English](https://fermanakgun.github.io/bereket-bahcesi/en.html)
 
 </td>
 </tr>
