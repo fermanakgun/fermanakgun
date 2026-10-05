@@ -1,11 +1,39 @@
 ### Merhaba, ben Ferman 👋
 
-İzmir'den yazılım geliştiriyorum. Boş zamanlarımda **sakin, reklamsız ve herkesin rahatça oynayabileceği** mobil oyunlar yapıyorum.
+**Principal Software Developer @ [VeriPark](https://www.veripark.com)** · 2013'ten beri bankacılık yazılımları geliştiriyorum.
+Boş zamanlarımda **sakin, reklamsız ve herkesin rahatça oynayabileceği** mobil oyunlar yapıyorum.
+
+[LinkedIn](https://www.linkedin.com/in/fermanakgun) · [fermanakgun.com](https://fermanakgun.com) · [Proje tanıtım sitesi](https://fermanakgun.github.io/proje-tanitim/)
+
+## Özgeçmiş
+
+### Deneyim — VeriPark (2013 – bugün, 13+ yıl)
+
+VeriPark; Financial CRM, Loan Origination, Payment Hub ve Multi-Channel Delivery ürünleriyle dünya genelinde bankalara hizmet veren bir yazılım şirketi.
+
+| Dönem | Pozisyon | Konum |
+|---|---|---|
+| Mart 2024 – bugün | **Principal Developer** | Uzaktan |
+| Temmuz 2020 – Mart 2024 | **Kıdemli Yazılım Geliştirme Uzmanı** | İzmir |
+| Mayıs 2014 – Haziran 2020 | **Yazılım Geliştirme Uzmanı** | İzmir |
+| Haziran 2013 – Mayıs 2014 | **Yarı Zamanlı Yazılım Geliştirici** | Türkiye |
+
+- İnternet bankacılığı ve çok kanallı dijital bankacılık: **VeriBranch / VeriChannel** (ASP.NET tabanlı) platformu
+- Türkiye, Dubai ve dünya genelindeki banka projelerinde geliştirme ve teknik tasarım
+
+### Eğitim
+
+**Celal Bayar Üniversitesi**
+
+### Yetenekler
+
+`C#` · `.NET / ASP.NET` · `SQL` · `Teknik tasarım` · `Git` · `Swift / SwiftUI` · `SpriteKit`
 
 ## Projelerim
 
 Tüm projelerimin tanıtım ve basın kiti sayfaları: **[fermanakgun.github.io/proje-tanitim](https://fermanakgun.github.io/proje-tanitim/)**
 
+<!-- Bu tablo proje-tanitim sitesinin ana sayfasıyla aynı sırada tutulur. Kurallar: fermanakgun/proje-tanitim/CLAUDE.md -->
 <table>
 <tr>
 <td width="110" valign="top">
@@ -36,7 +64,4 @@ Meyveleri kaydır, eşleştir, patlat! Sakin, tatlı bir meyve bulmacası: **can
 </td>
 </tr>
 </table>
-
----
-
-🌐 [fermanakgun.com](https://fermanakgun.com) · 📍 İzmir
+<!-- /Projelerim -->
