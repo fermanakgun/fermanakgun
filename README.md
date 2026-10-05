@@ -7,23 +7,23 @@
 <table>
 <tr>
 <td width="120" valign="top">
-  <a href="https://fermanakgun.github.io/bereket-bahcesi/"><img src="assets/bereket-bahcesi-icon.png" width="100" alt="Bereket Bahçesi ikonu"></a>
+  <a href="https://fermanakgun.github.io/proje-tanitim/bereket-bahcesi/"><img src="assets/bereket-bahcesi-icon.png" width="100" alt="Bereket Bahçesi ikonu"></a>
 </td>
 <td valign="top">
 
-**[Bereket Bahçesi](https://fermanakgun.github.io/bereket-bahcesi/)** · *Bountiful Grove* — iPhone ve iPad
+**[Bereket Bahçesi](https://fermanakgun.github.io/proje-tanitim/bereket-bahcesi/)** · *Bountiful Grove* — iPhone ve iPad
 
 Meyveleri kaydır, eşleştir, patlat! Kendi hızınızda oynanan sakin bir meyve bulmacası: **can yok, bekleme yok, reklam yok.**
 Sonsuz ve tekrar etmeyen seviyeler, mevsimden mevsime büyüyen bir bahçe, büyük ve okunaklı taşlar.
 
-[App Store'dan indir](https://apps.apple.com/tr/app/bereket-bah%C3%A7esi/id6817875847) · [Basın kiti ve tanıtım klibi](https://fermanakgun.github.io/bereket-bahcesi/) · [English](https://fermanakgun.github.io/bereket-bahcesi/en.html)
+[App Store'dan indir](https://apps.apple.com/tr/app/bereket-bah%C3%A7esi/id6817875847) · [Basın kiti ve tanıtım klibi](https://fermanakgun.github.io/proje-tanitim/bereket-bahcesi/) · [English](https://fermanakgun.github.io/proje-tanitim/bereket-bahcesi/en.html)
 
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <a href="https://fermanakgun.github.io/bereket-bahcesi/"><img src="assets/bereket-bahcesi-banner.png" width="80%" alt="Bereket Bahçesi"></a>
+  <a href="https://fermanakgun.github.io/proje-tanitim/bereket-bahcesi/"><img src="assets/bereket-bahcesi-banner.png" width="80%" alt="Bereket Bahçesi"></a>
 </p>
 
 ---
