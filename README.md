@@ -105,5 +105,19 @@ Atasözlerini harf taşlarıyla tamamlayın! Sakin bir kelime bulmacası: **sür
 
 </td>
 </tr>
+<tr>
+<td width="110" valign="top">
+  <a href="https://fermanakgun.github.io/proje-tanitim/petek-kervani/"><img src="https://fermanakgun.github.io/proje-tanitim/assets/petek-kervani.png" width="96" alt="Petek Kervanı simgesi"></a>
+</td>
+<td valign="top">
+
+**[Petek Kervanı: Arı Bulmacası](https://fermanakgun.github.io/proje-tanitim/petek-kervani/)** · *Comb Couriers: Hive Puzzle* — iPhone ve iPad
+
+Arıların renkli kareleri piksel resimden söküp kovana taşıdığı bal temalı bulmaca: **reklam yok, çevrimdışı, hesap yok.** Yakında App Store'da.
+
+[Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/petek-kervani/) · [English](https://fermanakgun.github.io/proje-tanitim/petek-kervani/en.html)
+
+</td>
+</tr>
 </table>
 <!-- /Projelerim -->
