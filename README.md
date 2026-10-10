@@ -99,9 +99,9 @@ Atasözlerini harf taşlarıyla tamamlayın! Sakin bir kelime bulmacası: **sür
 
 **[Fırça Bahçesi](https://fermanakgun.github.io/proje-tanitim/firca-bahcesi/)** · *Brush Garden* — iPhone ve iPad
 
-Çocuklar için sakin bir çizim ve boyama bahçesi: **reklam yok, çevrimdışı, veri toplamaz.** Yakında App Store'da.
+Çocuklar için sakin bir çizim ve boyama bahçesi: **reklam yok, çevrimdışı, veri toplamaz.**
 
-[Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/firca-bahcesi/) · [English](https://fermanakgun.github.io/proje-tanitim/firca-bahcesi/en.html)
+[App Store'dan indir](https://apps.apple.com/tr/app/f%C4%B1r%C3%A7a-bah%C3%A7esi/id6818263979) · [Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/firca-bahcesi/) · [English](https://fermanakgun.github.io/proje-tanitim/firca-bahcesi/en.html)
 
 </td>
 </tr>
