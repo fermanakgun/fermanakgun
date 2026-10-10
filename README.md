@@ -41,11 +41,11 @@ Tüm projelerimin tanıtım ve basın kiti sayfaları: **[fermanakgun.github.io/
 </td>
 <td valign="top">
 
-**[Moda Matematiği](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/)** · *Diamond Wardrobe*
+**[Moda Matematiği](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/)** · *Diamond Wardrobe* — iPhone ve iPad
 
 Matematik çöz, elmas kazan, karakterini giydir.
 
-[Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/) · [English](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/en.html)
+[App Store'dan indir](https://apps.apple.com/tr/app/moda-matemati%C4%9Fi/id6818876582) · [Tanıtım sayfası](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/) · [English](https://fermanakgun.github.io/proje-tanitim/moda-matematigi/en.html)
 
 </td>
 </tr>
